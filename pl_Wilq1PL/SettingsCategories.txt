@@ -1,0 +1,6 @@
+Wideo \uf03d
+Dźwięk 🔉
+Sterowanie 🎮
+Interfejs \uf26c
+Inne \uf3ed
+Server Specific \uf233

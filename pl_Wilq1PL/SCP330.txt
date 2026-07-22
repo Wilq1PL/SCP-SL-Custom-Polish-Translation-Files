@@ -1,0 +1,41 @@
+"Weź nie więcej niż dwa"
+<color=purple><b>🌈</b> R</color><color=#dca43c>a</color><color=#b40404>i</color><color=#f47fff>n</color><color=blue>b</color><color=#2a731f>o</color><color=purple>w</color> <color=#dca43c>C</color><color=#b40404>a</color><color=blue>n</color><color=#2a731f>d</color><color=#f47fff>y 🍬</color>
+\n\n\n<size=75%><color=#f47fff>Jest to twardy kryształowy cukierek, pełen przeróżnych smaków.</color></size>
+\n\n\n\n<size=150%><color=#b40404>✚</color><color=#FFFFFF> Odnawia 15 HP.\n<color=#dca43c>🏃</color><color=#FFFFFF> Nieskończony Bieg - 5 sekund.\n<color=purple>⛨</color><color=#FFFFFF> 5% Odporności na Obrażenia.\n<color=#2a731f>⛨</color><color=#FFFFFF> Redukuje Znaczność Negatywnych Efektów - 10s.\n<color=#36a7d6>⛨</color><color=#FFFFFF> Aplikuje 20 AHP na 10s.</color></size>
+<color=#dca43c>🍋 Żółty Cukierek 🍬</color>
+\n<size=75%><color=#dca43c>Przytłaczający zapach cytryny sprawia, że się krzywisz.</color></size>
+\n\n<size=150%><color=#dca43c>🏃</color><color=#FFFFFF> Odnawia 25% Staminy.\n<color=#dca43c>🏃</color><color=#FFFFFF> Nieskończony Bieg - 8s.\n<color=#dca43c>🏃</color><color=#FFFFFF> 10% Zwiększona Prędkości - 8 seconds.</color></size>
+<color=purple><b>🍇</b> Fioletowy Cukierek 🍬</color>
+\n<size=75%><color=purple>Posiada soczysty zapach winogron. Patrząc na niego zaczynasz się ślinić.</color></size>
+\n\n\n\n<size=150%><color=purple>⛨</color><color=#FFFFFF> 20% Odporności na Obrażenia - 15s.\n<color=purple>✚</color> Regeneruje 15 HP.</size>
+<color=#b40404><b>🍒</b> Czerwony Cukierek 🍬</color>
+\n<size=75%><color=#b40404>Silny zapach wiśni wypełnia pomieszczenie. Jest lekko... <i>przytłaczający</i>.</color></size>
+<color=#b40404>✚</color><color=#FFFFFF> Regeneruje 45 HP.
+<color=#2a731f>🌿 Zielony Cukierek 🍬</color
+\n<size=75%><color=#2a731f>Cukierek cuchnie okropnym, ziołowym zapachem..</color></size>>
+\n\n<size=150%><color=#2a731f>⛨</color><color=#FFFFFF> Odporność na Negatywne Efekty - 30s.\n<color=#2a731f>✚<color=#FFFFFF> Powoli Regeneruje 120 HP.</color></size>
+<color=#36a7d6>🍬 Niebieski Zapach 🍬</color>
+\n<size=75%><color=#36a7d6>Ma delikatny i słodki zapach, trochę jak pianki.</color></size>
+<color=#55da09>⛨</color><color=#FFFFFF> Aplikuje </color><color=#55da09>30 AHP</color>.
+<color=#f47fff>🍓 Różowy Cukierek 🍬</color>
+\n<size=75%><color=#f47fff>Zapach truskawki jest tak delikatny jak jego wygląd.</color></size>
+<color=#FFFFFF>💥 Natychmiastowa █████████</color>
+<color=orange><b>🍊</b> Pomarańczowy Cukierek 🍬</color>
+Cukierek o zapachu cytrusów mieni się kuszącym blaskiem. Cukierek albo psikus?
+​Sprawia, że promieniujesz jaskrawym odcieniem pomarańczy. Wrogom trudno oderwać od ciebie oczu.
+<color=#FFFFFF><b>👻</b> Biały Cukierek 🍬</color>
+Z wnętrza opakowania unosi się wyraźny zapach cukru. Wygląda na to, że w środku nie ma żadnych cukierków… Cukierek albo psikus?
+​Tymczasowo zmienia cię w ducha — sprawia, że stajesz się przezroczysty i możesz przechodzić przez drzwi.
+<color=#808080>🍬 Szary Cukierek 🍬</color>
+Z tego zaskakująco ciężkiego cukierka unosi się delikatny zapach ołowiu. Cukierek albo psikus?
+​Zmienia cię w niezwykle ciężki i odporny na obrażenia kawałek ołowiu. Metal_pipe.mp3
+<color=#43464b>🍬 Czarny Cukierek 🍬</color>
+Przytłaczający zapach nicości wywołuje u ciebie odruch wymiotny. Pamiętasz, że czułeś go niezliczoną ilość razy, ale nie potrafisz przypomnieć sobie jego smaku. Cukierek albo psikus?
+Powoduje losowy efekt. Myślisz, że masz farta?
+<color=#523a28><b>☕️</b> Brązowy Cukierek 🍬</color>
+Kuszy cię znajomy zapach kawy. Cukierek albo psikus?
+​Niezwykle skuteczny środek przeczyszczający.
+<color=red>💀 Nikczemny Candy 💀</color>
+Cukierki tętnią złowrogą energią. Cukierek albo psikus?
+Błyskawicznie zamienia tkankę ciała w piankę. Pół człowiek, pół pianka. Całkowite <b>ZŁO</b>.
+​

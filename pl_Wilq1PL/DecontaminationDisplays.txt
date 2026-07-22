@@ -1,0 +1,7 @@
+<color=#7cf58d><b>DEKONTAMINACJA ZA:</b></color>
+<color=red><size=85%>⚠<b>-PROSZĘ OPUŚCIĆ OBSZAR-</b>⚠</size></color>
+<color=red><size=85%>⚠<b>-PROSZĘ EWAKUOWAĆ SIĘ-</b>⚠</size></color>
+<size=84%><b>TRWA ANALIZA ZAGROŻENIA</b></size>
+<size=85%><b>URUCHAMIANIE SYSTEMÓW BEZPIECZEŃSTWA</b></size>
+<size=84%><b>SYSTEMY GOTOWE DO WSZCZĘCIA</b></size>
+<color=red><size=85%>⚠<b>-INICJOWANIE PROCEDURY P-B-3-</b>⚠</size></color>

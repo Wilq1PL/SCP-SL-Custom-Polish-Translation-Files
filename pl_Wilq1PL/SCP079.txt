@@ -1,0 +1,17 @@
+<color=#8080FF>⚡ENERGIA</color>
+<color=#8080FF>📖 DOŚWIADCZENIE</color>
+KAMERA:<color=red>◉REC</color>
+WCIŚNIJ [KEY], ABY PRZEŁĄCZYĆ NA MAPĘ NADZORU
+Zdobyto doświadczenie:
+Praca zespołowa
+Pomoc w zabiciu <color=#FF8E00>D-Boya</color> 💀
+Pomoc w zabiciu <color=#008F1E>Agenta Hausa</color> 💀
+Pomoc w zabiciu <color=#0096FF>MFO</color> 💀
+Pomoc w zabiciu <color=#FFFF7CFF>Doktorka</color> 💀
+Pomoc w zneutralizowaniu <color=#F00>SCP</color> 💀
+ZABLOKOWANYCH DRZWI: [LOCKED_NUM]<size=25>PRAWY PRZYCISK MYSZY BY ODBLOKOWAĆ WSZYSTKIE</size>
+Ogólne interakcje
+<color=#F00>Jesteś atakowany!</color>
+<color=#F00>Generatory zostały podświetlone na mapie</color>
+<color=yellow>⚠</color>
+<color=#F00>Podmiotów SCP</color>{0}<color=#0096FF>MFO</color> i <color=#727472>Ochroniarzy</color>{1}<color=#FFFF7CFF>Doktorków</color>{2}<color=#FF8E00>D-Boyów</color>{3}<color=#008F1E>Agentów Hausa</color>{4}

@@ -1,0 +1,30 @@
+<color=red>「BETON」</color>
+<color=#ff8000>D-Boy</color>
+「Skill Issue」
+<color=red>「Radykalny Larry」</color>
+<color=#00AFFF>Specjalista Epsztilon-11</color>
+<color=red>「Francuz」</color>
+<color=#ffff7c>Doktorek</color>
+<color=#8080FF>「ChudGPT」</color>
+<color=#559100>Poborowy Hausa</color>
+<color=red>「Płakał」</color>
+<color=#8d1414>「Zombi」</color>
+<color=#0096ff>Sierżant Epsztilon-11</color>
+<color=#003dca>Kapitan Epsztilon-11</color>
+<color=#70c3ff>Szeregowy Epsztilon-11</color>
+<color=#ff00b0>「Różowy Teletubiś」</color>
+<color=#556278>Ochroniarz Placówki</color>
+<color=red>「Pies」</color>
+-
+<color=#008F1C>Szturmowiec Hausa</color>
+<color=#006826>Kat Hausa</color>
+<color=#0D7D35>Operator Broni Ciężkiej Hausa</color>
+Nadzorca
+Filmowiec
+<color=red>「SANS UNDERALE!?!?」</color>
+Zniszczony
+<color=#FF59CA>「Flaming Beta」</color>
+<color=#FF0099>「Flaming Alfa」</color>
+<color=#ff0000>「Flaming Bez Muzgu」</color>
+<color=#0096ff>Flaming MFO</color>
+<color=#559100>Flaming Hausa</color>

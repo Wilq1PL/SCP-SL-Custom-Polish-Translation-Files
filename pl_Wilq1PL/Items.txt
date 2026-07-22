@@ -1,0 +1,59 @@
+0~<color=#bcb1e4>💳 Karta Areczka 💳</color>
+1~<color=#FFFF7C>💳 Karta Doktorka Juniora 💳</color>
+2~<color=#ddab20>💳 Karta Doktorka Seniora 💳</color>
+3~<color=#217778>💳 Karta Zarządcy Strefy 💳</color>
+4~<color=#5B6370>💳 Karta Ochrony 💳</color>
+5~<color=#70C3FF>💳 Karta Kadeta MFO 💳</color>
+6~<color=#b6887f>💳 Karta Technika Zabezpieczeń 💳</color>
+7~<color=#0096FF>💳 Karta Operacyjna MFO 💳</color>
+8~<color=#003DCA>💳 Karta Kapitana MFO 💳</color>
+9~<color=#ba1846>💳 Karta Dyrektora Placówki 💳</color>
+10~<color=#008F1C>📟 Urządzenie Hakujące Hausa 📟</color>
+11~<color=#FFFFFF>💳 Karta Dostępu Poziomu 5 💳</color>
+12~<color=#5B6370>📻 Radio 📻</color>~Umożliwia komunikację na duże odległości pomiędzy urządzeniami.\n\nSR - 108m\nMR - 180m\nLR - 1080m\nUR - 7200m
+13~<color=#FFFF7C>\uf05b GLOCK-15 \uf05b</color>
+14~<color=#FFFF7C>\uf0fa Apteczka Pierwszej Pomocy \uf0fa</color>~<color=#f57caa>💗</color> Leczy 65 HP.
+15~<color=#FF8E00>🔦 Latarka 🔦</color>~"Niech się stanie światłość!".
+16~<color=#003DCA>⚡ Micro HIV ⚡</color>~<size=135%>Daje anomaliom AIDS.\n\n「Primary」: 400 DPS\n「Charged」: 1000 DPS\n<color=#767676>🏃</color> Zwiększona konsumpcja wytrzymałości - 30%.</size>
+17~<color=#ff0000>💊 SCP-500 💊</color>~<color=#f57caa>💗</color> W pełni leczy gracza\n<color=#f57caa>✚</color> Regeneruje 200 HP\n<color=#ffb4ff>♻️</color> Usuwa niektóre efekty
+18~<color=#ff0000>\uf72f SCP-207-C \uf72f</color>~<color=#767676>🏃</color> <size=90%>Zwiększa prędkość gracza</size>\n<color=#767676>🏃</color>
+20~<color=#0096FF>\uf05b Epsztilon \uf05b\n<size=75%>Standardowy Karabin Oddziałów MFO</size></color>
+21~<color=#70C3FF>\uf05b Crossvec \uf05b\n<size=75%>C.R.O.S.S.</size></color>
+23~<color=#5B6370>\uf05b FSP-9 \uf05b\n<size=75%>Standardowa Broń Oddziałów Ochrony placówki</size></color>
+24~<color=#0D7D35>\uf05b Logicer \uf05b\n<size=75%>Sasha</size></color>
+25~<color=#0096FF>💥 HE Grenade 💥</color>~<color=orange>💥</color> 900 DMG dla <color=red>SCP</color>.\n<color=#8079FF>\ue06c</color> 1800 DMG dla <color=#8079FF>Tarczy Hume</color>.\n<color=orange>🔥</color> Parzy graczy.\n\uf2f2 3.5s czasu zapalnika.
+26~<color=#5B6370>💣 Flashbang 💣\nModel FG02</color>~<color=#5B6370>\uf06e</color> Oślepia przeciwnika przez 5s max.\n\uf2f2 2.8s czasu zapalnika.
+30~<color=#5B6370>\uf05b GLOCK-18 \uf05b\n<size=75%>Kompaktowy Pistolet</size></color>
+31~<color=red>⚽ SCP-018 ⚽</color>~<size=85%><color=#ffeb00>👥</color> Toleracja Friendly Fire - 10s.\n💨 Prędkość podwaja się z każdym odbiciem.\n⚽ 10x DMG dla <color=red>SCPs</color>.\n<color=orange>💥</color> Eksploduje po 80s.</size>
+32~<color=#ff0000>🎩 SCP-268 🎩</color>~◌ Niewidzialność - 15s.
+33~<color=#FFFF7C>💉 Adrenalina 💉</color>~<color=#55da09>⛨</color> Daje graczowi <color=#55da09>40 AHP</color>.\n<color=#767676>🏃</color> Odnawia pasek wytrzymałości.\n<color=#767676>🏃</color> Nieskończony sprint sprint - 8s.
+34~<color=#FFFF7C>\uf490 Leki na Depresję \uf490</color>~<color=#f57caa>✚</color> Regeneruje 50 HP.
+35~💿 Monetka 💿~LET'S GO GAMBLING!!!
+36~<color=#5B6370>\uf3ed Leki Pancerz \uf3ed</color>
+37~<color=#0096FF>\uf3ed Standardowy Pancerz \uf3ed</color>
+38~<color=#0D7D35>\uf3ed Solidny Metal Gear \uf3ed</color>
+39~<color=#006826>\uf05b Wyrewolwerowany Rewolwer \uf05b\n<size=75%>.44 Magnum </size></color>
+40~<color=#008F1C>\uf05b AK-47 \uf05b</color>
+41~<color=#006826>\uf05b Shotgun \uf05b\n<size=75%>Dwururowa Bagieta </size></color>
+42~<color=#ff0000>🍬 SCP-330 🍬</color>~<size=25%>"Cukierek albo Psikus?"</color>
+43~<color=#ff0000>💡 SCP-2176 👻</color>~<color=#f5f17c>💡</color> Blackout - 13s.\n<color=#b97cf5>🚪</color> Blokada dżwi - 13s.\n<color=#7DF9FF>⚡</color> Aktywuje Bramy Tesli.\n<color=#8080FF>💻</color> Stun <color=#8080FF>SCP-079</color> - 8s.
+44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~<b>☁️</b> Tworzy lodową chumrę.\n❄️ Chmura aplikuje hipotermię.
+45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~<b>☁️</b> Tworzy lodową chumrę.\n❄️ Chmura aplikuje hipotermię.
+46~SCP-1853~Zwiększa zręczność i umiejętności obsługi broni, gdy twoje życie jest zagrożone.~Ulepszacz Wydajności
+47~<color=#003DCA>\uf05b 3-X Particle Disruptor \uf05b\n<size=75%>Eksperymentalny Karabin Ontokinetyczny</size></color>
+48~<color=#ff0000>\uf05b GLOCK-15x3 \uf05b\n<size=75%>Potrójny automatyczny pistolet</size></color>
+49~<color=#ff0000>🔊 SCP-1576 🔊</color>~👻 Doświadcz schizofrenii.\n\uf2f2 Czas trwania - 30s.
+50~<color=#ff0000>🍭 Wielka Czarna Pała 🍭</color>~<size=75%>To jest… Pała!?</size>\n\nZamach 「LMB」: 50 DMG\nSzarża 「RMB」: 200 DMG\n<color=#8079FF>\ue06c</color> Penetruje <color=#8079FF>Tarczę Hume</color>.
+51~<color=#004B93>\uf72f O-207-914 \uf72f</color>~<color=#767676>🐌</color> <size=90%>Zmniejsza przędkość gracza</size>\n<color=#f57caa>✚</color> Regeneruje HP\n<color=#55da09>⛨</color> Zapewnia 75 AHP\n\n<size=75%>Uratuje twoje życie w sytuacji kryzysowej.</size>
+52~<color=#003DCA>\uf05b Heavy Epszilon \uf05b\n<size=75%>Elitarny Ciężki Karabin Oddziałów MFO</size></color>
+53~<color=#ff0000>\uf05b A7 \uf05b\n<size=75%>Automatyczna Kolba</size></color>
+54~<color=#FF8E00>🏮 Lampion 🏮</color>~Klasyczna lampa naftowa z wygrawerowanym napisem "Do pokoju wbiega Daniel!!!".
+55~<color=red>\uf729 SCP-1344-03 \uf729</color>~<size=80%><color=#ffb4ff>\uf06e</color> Pozwala widzieć istoty przez ściany.</size>\n\n<b>NIE ZDEJMOWAĆ</b>
+56~\uf2dc Śnieżka \uf2dc~「Normal」: 15 DMG\n「Charged」: 30 DMG\nx2 Headshot DMG\n<color=#8079FF>\ue06c</color> Penetruje <color=#8079FF>Tarczę Hume</color>
+57~Wungiel~Jesteś na liście niegrzecznych!
+58~SCP-2536-2~Teleportuje gracza do losowego <color=red>SCP</color>.
+59~<color=#FF59CA>📼 Odtwarzacz Kaset 📼</color>~Przywołuje hordę:\n<color=#FF59CA>SCP-1507</color>
+61~<color=#6f32b5>\uf09d Przepustka \uf09d</color>~Jednorazowa przepustka do otwierania bram wyjściowych.
+62~<color=#ff0000>\uf05b SCP-127 \uf05b\n<size=75%>Żywa Broń Palna</size></color>
+68~<color=#ff0000>🔪 SCP-1509 🔪</color>~<size=75%>Krakowska Maczeta</size>\n\n「LMB」: 50 DMG\n<color=#8079FF>\ue06c</color> Daje użytkownikowi <color=#8079FF>35 HS</color>.\n<color=red>👻</color> Odradza martwego soujsznika.
+69~<color=#ff0000>💀 SCP-021-J 💀</color>~Prędko zmienia tkanki ciała w piankę.\nPół Człowiek, Pół Pianka.\nAll <b>ZŁO</b>.

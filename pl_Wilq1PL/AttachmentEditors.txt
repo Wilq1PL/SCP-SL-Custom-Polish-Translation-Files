@@ -1,0 +1,18 @@
+Niestandardowy 📝
+Ustawienie 📝 #[index]
+<color=green>ZAPISZ ✔</color>
+<color=red>WYCZYŚĆ ❌</color>
+Domyślny
+📝 USTAWIENIA 📝
+<size=250><color=red>\n\uf023</color></size>
+<size=150%><color=#ccc>PUNKT PERSONALIZACJI BRONI</color> <color=#0096FF>OŚRODKA-02</color></size>\nDOTKNIJ EKRANU W CELU URUCHOMIENIA
+<size=250><color=#00FFFF>\n🔘</color></size>
+<size=150%>ŁADOWANIE BAZY DANYCH\nPROSZĘ CZEKAĆ....</size>
+<size=250><color=#00b300>\n\uf09c</color></size>
+<size=150%>PUNKT PERSONALIZACJI BRONI <color=#0096FF>OŚRODKA-02</color></size>\nWYPOSAŻ BROŃ ABY KONTYNUOWAĆ
+<size=250><color=#00FFFF>\n🔘</color></size>
+<size=150%>WYŁĄCZANIE...</size>
+POKAŻ PODSUMOWANIE
+UKRYJ PODSUMOWANIE
+Dostosowanie [Attachment]
+Naciśnij [Key], aby zmodyfikować broń.

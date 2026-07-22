@@ -1,0 +1,2 @@
+<color=#ff80bc>Zostałeś rozbrojony przez <b>[player]</b></color>
+<color=red>administratora</color>

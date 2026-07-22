@@ -1,0 +1,19 @@
+<b>Runda dobiegła końca!</b>
+<color=#EC2222>「SCP WYGRYWJĄ」</color>
+<size=85%><color=#0096FF>「FUNDACJA WYGRYWA」</color></size>
+<size=85%><color=#008F1C>「REBELIA WYGRYWA」</color></size>
+「PATOLOGIA」
+<color=#EC2222>Zbiegłe podmioty opanowały całą placówkę. Nie ma już niczego.</color>
+<color=#0096FF>Zneutralizowano zagrożenie. Ośrodek 02 jest ponownie bezpieczny.</color>
+<color=#008F1C>Cały personel fundacji został zgładzony. Żołnierze oczekują dalszych rozkazów.</color>
+Sytuacja jest tak pojebana że już nawet Dado nie pomoże.
+<color=#FF8E00>🏃 [summary_d_escaped] D-Boyów uciekło</color>
+<color=#FFFF7C>👓 [summary_s_escaped] Doktorków przetrwało</color>
+<color=#EC2222>Głowica Alfa - ZDETONOWANA. Potwierdzone Terminacje: [summary_warhead_kills].</color>
+<color=#EC2222>Głowica Alfa</color> - Nie została zdetonowana. Systemy - W normie.
+Misja zajęła [summary_round_minutes] minut i [summary_round_seconds] sekund.
+<color=#EC2222>🌀 [summary_scp_terminated] zneutralizowanych Podmiotów SCP</color>
+Następna runda rozpocznie się za [summary_next_round_countdown] sekund.
+<color=#EC2222>Podmioty SCP zabiły [summary_scpfrags] istot.</color>
+<size=85%><color=#FF59CA>「FLAMINGI WYGRYWAJĄ」</color></size>
+<color=#FF59CA>Wszystkie inne zespoły zostały unicestwione. Całkowite zwycięstwo flamingów zostało osiągnięte.</color>

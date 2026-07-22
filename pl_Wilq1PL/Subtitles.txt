@@ -1,0 +1,32 @@
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>MFO Epsztilon-11</color> <b>|</b> <color=#003DCA>Oznaczenie: [designation]</color> <b>|</b>
+<color=#EC2222>[count] SCP</color>.
+<color=#EC2222>1 SCP</color>.
+<color=#EC2222>Proszę zachować ostrożność</color>.
+zneutralizowany <b>|</b> Przyczyna neutralizacji nieznana.
+zneutralizowany przez: <color=#EC2222>SCP-[scp]</color>.
+zneutralizowany przez: <color=#f5650a>Automatyczny System Bezpieczeństwa</color>.
+zneutralizowany przez: <color=#EC2222>Głowicę Alfa</color>.
+zneutralizowany przez: <color=#FFFF7C>Doktorka</color>.
+zneutralizowany przez: <color=#FF8E00>D-Boya</color>.
+zneutralizowany przez: <color=#008F1C>Rebelię Hausa</color>.
+<b>「<color=#58a4ef>\uf06e</color>」</b> - <color=#EC2222>SCP-[scp]</color>
+zabezpieczony <b>|</b> Jednostka zabezpieczająca nieznana.
+zabezpieczony <b>|</b> Jednostka zabezpieczająca: <color=#0096FF>[designation]</color>.
+stracony w procesie dekontaminacji.
+<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#8080FF>[current]</color>/<color=#8080FF>[max]</color> generatorów aktywne.
+<split>Wszystkie generatory zostały pomyślnie uruchomione.
+<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Przeciążenie za 3... 2... 1...</color>
+<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Placówka powróciła do normalnego trybu pracy.</color>
+「<color=#f6b140>⚠️</color>」 - Dekontaminacja <color=#EC2222>Strefy Niższego Nadzoru</color> w ciągu <color=#EC2222>15 minut</color>.
+「<color=#f6b140>⚠️</color>」 - Dekontaminacja <color=#EC2222>Strefy Niższego Nadzoru</color> w ciągu <color=#EC2222>[time] minut</color>.
+「<color=#f6b140>⚠️</color>」 - Dekontaminacja <color=#EC2222>Strefy Niższego Nadzoru</color> w ciągu <color=#EC2222>1 minuty</color>.
+「<color=#f6b140>⚠️</color>」 - Dekontaminacja <color=#EC2222>Strefy Niższego Nadzoru</color> w ciągu <color=#EC2222>30 sekund</color>.
+<b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Strefa Niższego Nadzoru</color> została zablokowana i przygotowana na dekontaminację.
+<color=#ff4545>「\uf7ba」</color><color=#EC2222> - AWARYJNA SEKWENCJA DETONACJI: AKTYWOWANA <b>|</b> SAMODESTRUKCJA W CIĄGU: [time] SEKUND.</color>
+<b><color=#ff4545>「❌」</color><color=#EC2222> - SEKWENCJA DETONACJI: WSTRZYMANA.</color>
+<color=#ff4545>「\uf7ba」</color><color=#EC2222> - AWARYJNA SEKWENCJA DETONACJI: WZNOWIONA. POZOSTAŁO [time] SEKUND.</color>
+zneutralizowany przez: <color=#36a7d6>Piankowego Marynarza</color>.
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - Jednostka Wsparcia <color=#70C3FF>Mobilnej Formacji Operacyjnej</color> <b>|</b> 
+<b>「<color=#58a4ef>\uf06a</color>」</b> - Wykryto <color=#066328><b>[number]</b></color> jednostek <color=#066328>Rebelii Hausa</color> przy <color=#9cc7f5>Bramie A</color> <b>|</b> <color=red>Użycie Śmiertelnej Siły: <b>autoryzowane</b>.</color>
+<b>「<color=#58a4ef>\uf06a</color>」</b> - Wykryto <color=#066328><b>[number]</b></color> dodatkowych <color=#066328>Wrogich</color> jednostek przy <color=#9cc7f5>Bramie A</color> <b>|</b> <color=#58a4ef>Model obronny: zaktualizowany.</color>
+<color=#ff4545>「\uf714」</color><color=#EC2222> - ODZYSKANIE PLACÓWKI NIEUDANE — SEKWENCJA DEAD MAN's AKTYWOWANA. <b>|</b> SAMODESTRUKCJA W CIĄGU: [time] SEKUND.</color>

@@ -1,0 +1,36 @@
+💀 Tu leży <color=#ff80bc><b>[user]</b></color> był [class]!\n Wyniki obserwacji: [cause]
+Zabezpieczony.
+Wyparował przez wybuch głowicy Alfa.\n Powód: <color=#f5650a>Nie zdążył się ewakuować.</color>
+Zawał serca | Tępe rany\n Powód: <color=#e52121>SCP-049</color>/<color=#e52121>SCP-049-2</color>
+Nieznany powód śmierci. Powód: <color=#f5650a>Nieznany</color>
+Ciężkie oparzenia prądem.
+Niedobór tlenu spowodował śmierć przez uduszenie.
+Znaczna utrata krwi spowodowana przez głębokie rany
+Dla twojej informacji, krew jest potrzebna do  życia.
+Złamane nogi i stopy sugerują śmiertelne obrażenia spowodowane upadkiem.
+Doświadczyłeś grawitacji.
+Widoczna korozja.\n Powód: <color=#e52121>SCP-106</color>
+Stopiony przez wysoko korozyjną substancję.\n Powód: <color=#7cf58d>Dekontaminacja</color>
+Zółta skóra oraz zapach zgnilizny.\n Powód: <color=#F5650A>Spożycie trucizny.</color>
+Nie łącz Coli z Dopalaczami!!!
+Blada skóra oraz krew wyciekająca z ust. \n Powód: <color=#e52121>SCP-207</color>
+<color=#e52121>SCP-207</color> wykończył cię.
+Nie powinieneś brać więcej niż dwóch!\n Powód: <color=#e52121>SCP-330</color>
+Złapała cię Brama Tesli.
+Obecne odłamki oraz poważne poparzenia.\n Powód: <color=orange>Eksplozja</color>
+Zabiła cię pobliska eksplozja.\n Powód: <color=#5180f7>Granat Odłamkowy</color>/<color=#ff80bc>Jak zabawnie</color>
+Rozległe rany oraz nadmierna utrata krwi.\n Powód: <color=#e52121>SCP-096</color>
+Złamanie kręgu szyjnego u podstawy czaszki.\n Powód: <color=#e52121>SCP-173</color>
+Was that the bite of 87!?!?\n Powód: <color=#e52121>SCP-939</color>
+Widoczna duża ilość małych zadrapań.\n Powód: <color=#FF59CA>SCP-1507</color>/<color=#e52121>SCP-3114</color>/<color=#36a7d6>Piankowy marynażyk</color>
+Rany postrzałowe.\n Powód: Postrzał z broni palnej o amunicji typu: [ammotype].
+Ciało poważnie okaleczone i zmiażdżone.\n Powód: <color=#e52121>SCP-018</color>
+Oznaki poważnych urazów obu kości udowych wskazują na śmierć w wyniku wstrząsu krążeniowego.
+Zostałeś poświęcony aby zabezpieczyć <color=#e52121>SCP-106</color>.
+Automatycznie zabity za Friendly Fire.
+Zimna skóra i odmrożone palce.\n Powód: Hipotermia spowodowana <color=#e52121>SCP-244</color>.
+Zamarzłeś na śmierć.\n Powód: Spędziłeś za dużo czasu w obrębie chmury <color=#e52121>SCP-244</color>.
+Na ciele widoczne głębokie rany i zadrapania.\n Powód: <color=#e52121>SCP-939</color>
+Złapał cię Piankowy Marynarzyk!
+Rany postrzałowe z pozostałościami organicznymi.\n Powód: <color=red>SCP-127</color>
+Wiele otwartych ran, z których wychodzą małe insekty.\n Powód: <color=red>SCP-1509</color>

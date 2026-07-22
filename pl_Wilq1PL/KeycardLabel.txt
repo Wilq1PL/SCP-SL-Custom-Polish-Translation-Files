@@ -1,0 +1,9 @@
+<size=85%>\uf084</size> DOKTOREK JR.
+<size=85%>\uf084</size> ARECZEK
+<size=85%>\uf084</size> DOKTOREK SR.
+<size=85%>\uf084</size> TECH. ZABEZPIECZEŃ
+<size=85%>\uf084</size> OCHRONIARZ
+<size=85%>\uf084</size> ZARZĄDCA STREFY
+<size=85%>\uf084</size> DYREKTOR OŚRODKA
+<color=green>POZOSTAŁE UŻYCIA: 1</color>
+<color=red>ODMOWA DOSTĘPU</color>

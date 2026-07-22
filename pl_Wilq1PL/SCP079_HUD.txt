@@ -1,0 +1,91 @@
+🔍 ZOOM [amount]x
+<color=#8080FF>💳 POZIOM DOSTĘPU [tier]</color>
+⭐ EXP [current] / [next]
+<color=#8080FF>-</color>
+<color=red>\uf4e2 BRAK KAMERY</color>
+<color=#8080FF>📡</color> IDŹ DO: <color=#8080FF>[camera]</color> (<color=#8080FF>[cost]</color>)
+<size=150%>❌ ERROR ❌</size>\nNOT ENOUGH POWER
+ETA: [time] seconds
+⛔ UDMOWA DOSTĘPU - WYMAGANY WYŻSZY POZIOM ⛔
+<size=150%>❌ ERROR ❌</size>\nNIEPOPRAWNA KAMERA
+<size=150%>⛔ ERROR ⛔</size>\nODMOWA DOSTĘPU
+<color=green>\uf2f5</color> OTWÓRZ DRZWI (<color=#8080FF>[cost]</color>)
+<color=#07A2FF>\U0000003Crotate=180\U0000003E\uf2f6\U0000003Crotate=0\U0000003E</color> ZAMKNIJ DRZWI (<color=#8080FF>[cost]</color>)
+<color=red>\uf023</color> ZABLOKUJ DRZWI (<color=#8080FF>[cost]</color>)
+<color=green>\uf09c</color> ODBLOKUJ DRZWI
+<color=yellow>⚠</color> TRWA ODNAWIANIE BLOKADY DRZWI <color=yellow>⚠</color>
+<color=#8080FF>⚡ ZASILANIE</color>
+<color=yellow>⚠</color><color=red> JESTEŚ ATAKOWANY! </color><color=yellow>⚠</color>
+<color=green>\uf09c</color> WZNIEŚ BLOKADĘ 
+<color=#8080FF>\uf0e8</color> - OTWÓRZ MAPĘ PLACÓWKI 
+<color=#8080FF>\uf410</color> - ZAMKNIJ 
+<color=#f5eb9c>STREFA NIŻSZEGO NADZORU</color>
+<color=#ca2642>STREFA WYŻSZEGO NADZORU</color>
+<color=#bcfab2>STREFA WEJŚCIOWA</color>
+<color=#9cc7f5>POWIERZCHNIA</color>
+<color=#FFD700>💡</color> ODCIĘCIE ZASILANIA (<color=#8080FF>[cost]</color>)
+<size=150%>❌ ERROR ❌</size>\nODCIĘCIE ZASILANIA NIEMOŻLIWE
+<size=150%>🚨 OSIĄGNIO LIMIT 🚨</size>\nODCIĘĆ ZASILANIA
+<size=150%>❌ ERROR ❌</size>\nTRWA ODNAWIANIE ODCIĘĆ ZASILANIA
+<color=orange>\uf0dc</color> WYŚLIJ WINDĘ (<color=#8080FF>[cost]</color>)
+<color=red>\uf023</color> BLOKADA POMIESZCZENIA (<color=#8080FF>[cost]</color>)
+<size=150%>❌ ERROR ❌</size>\nTRWA ODNAWIANIE BLOKADY POMIESZCZENIA
+<size=150%>❌ ERROR ❌</size>\nBRAK DOSTĘPNYCH DRZWI
+<color=#8080FF>🚨</color> ZAZNACZ LOKACJĘ (<color=#8080FF>[cost]</color>)
+<size=150%>🚨 OSIĄGNIĘTO LIMIT ZAZNACZEŃ  🚨</size>
+<size=150%>❌ ERROR ❌</size>\nZMIANA KAMERY NIE POWIODŁA SIĘ 
+<color=red>\uf4e2</color>\n<size=75%>BRAK SYGNAŁU</size>
+ŁĄCZENIE (ZA: [time]s)
+<color=yellow>⚡</color> AKTYWUJ BRAMĘ TESLI (<color=#8080FF>[cost]</color>)
+<color=yellow>⚠</color> TRWA ODNAWIANIE AKTYWACJI BRAMY TESLI <color=yellow>⚠</color>
+$<color=#8080FF>💳 Poziom Dostępu [tier]</color>$ - ODBLOKOWANY
+Limit $<color=#8080FF>⚡ ZASILANIA POMOCNICZEGO</color>$ zwiększony do $<color=#8080FF>[limit]</color>$.
+$<color=#FFD700>💡</color> <color=#8080FF>ODCINANIE ZASILANIA</color>$ jest dostępne - naciśnij $<color=#8080FF>[key]</color>$, aby zgasić światła w pomieszczeniu na <color=#8080FF>15s</color>.
+Limit $<color=#FFD700>💡</color> <color=#8080FF>ZGASZONYCH ŚWIATŁEŁ</color>$ zwiększony do $<color=#8080FF>[number]</color>$ pomieszczeń.
+$<color=red>\uf023</color> <color=#8080FF>BLOKOWANIE POMIESZCZEŃ</color>$ jest dostępne - naciśnij $<color=#8080FF>[key]</color>$, aby zablokować wszystkie drzwi w pomieszczeniu na <color=#8080FF>10s</color>.
+<color=#8080FF>+[amount]</color> - <color=#ff00b0>Komenda Admina</color>
+<color=#8080FF>+[amount]</color> - [role] - Pomoc w Zabiciu - \uf54c
+<color=#8080FF>+[amount]</color> - [role] <color=red>- Bezpośrednie Zabicie - \uf714</color>
+<color=#8080FF>+[amount]</color> - [role] - Świadek Zabicia - \uf06e
+<color=#8080FF>+[amount]</color> - Pomoc w Pościgu - 🚪
+<color=#8080FF>+[amount]</color> - Obrona Członka Drużyny - \uf3ed
+<color=#8080FF>+[amount]</color> - Zapobiegnięcie użycia - <color=#003DCA>Micro HIV</color> - <color=#003DCA>⚡</color>
+<color=red>\u BLOKADA DRZWI JEST JUŻ AKTYWOWANA \uf023</color>
+<color=#ff9e00>☀ ODCIĘCIE ZASILANIA W CAŁEJ STREFIE</color> - wyłącza światło w całej strefie na 60s - ([cost])
+$<color=#ff9e00>☀</color> <color=#8080FF>ODCIĘCIE ZASILANIA W CAŁEJ STREFIE</color>$ jest dostępne - obok nazwy strefy na $<color=#8080FF>Mapie Placówki</color>$.
+<color=yellow>⚠</color> TRWA ODNAWIANIE ODCINANIA ZASILANIA W CAŁEJ STREFIE <color=yellow>⚠</color>
+<size=150%>🚨 ZASILANIE JUŻ ODCIĘTE 🚨</size>
+<size=150%>❌ ERROR ❌</size>\nODCINANIE ZASILANIA NIEDOSTĘPNE
+\uf21e - WSZYSTKICH ISTOT
+\uf54c - CELÓW
+<color=#EC2222>\uf780 PODMIOTÓW SCP</color>
+<color=#f5eb9c>\uf007 CYWILI</color>
+<color=#9cc7f5>\uf505 SIŁ ZBROJNYCH</color>
+<color=#8080FF>🔊</color> UŻYJ GŁOŚNIKA
+<size=150%>⛔ ERROR ⛔</size>\nODMOWA DOSTĘPU DO WINDY
+Pomóż <color=#F00>SCP</color>. Wykorzystaj system placówki przeciwko ludziom, aby pomóc drużynie w zabijaniu, jednocześnie przekazując im ważne informacje. Podnoś swój Poziom Dostępu wykonując te działania, aby odblokować nowe zdolności.
+Praktycznie Niezniszczalny:Możesz zostać pokonany tylko wtedy, gdy wszystkie SCP zginą lub gdy zostaną uruchomione wszystkie trzy generatory i zostanie aktywowane Przeciążenie Placówki. Pomieszczenia z aktywnymi generatorami są podświetlone na twojej mapie. Twoi sojusznicy muszą je wyłączać, aby zapobiec twojemu zabezpieczeniu.
+Nielimitowany Dostęp:Korzystając ze swoich zdolności zużywasz Moc (AP). Twoja moc jest widoczna jako wskaźnik AP w prawym dolnym rogu ekranu i regeneruje się regularnie. Dostępne zdolności oraz ich koszt AP możesz sprawdzić w prawym górnym rogu ekranu.
+Głębokie Uczenie:Pomaganie SCP w zabijaniu przyznaje ci Doświadczenie (EXP). Zdobyte EXP zwiększa postęp do następnego Poziomu, który odblokowuje nowe zdolności. Zdobyte EXP oraz awanse poziomów są wyświetlane w lewym dolnym rogu ekranu.
+Obserwacja:Obserwujesz i poruszasz się po placówce za pomocą kamer. Naciśnij [key] na ikone kamery aby przełączyć się na tę kamerę, lub otwórz mapę naciskając Tab, aby wybrać kamerę w konkretnym pomieszczeniu.
+$<color=#ffa500>\uf06e </color><color=#8080FF>WYKRYWACZ WYŁOMÓW</color>$ dostępny — wybierz drużyny/strefy na $<color=#8080FF>Mapie Placówki</color>$, aby cyklicznie skanować w poszukiwaniu pozostałych ocalałych.
+<size=150%><color=red>REG_ZP WSTRZYMANA ⚠</color></size>
+<size=150%><color=red>REG_ZP ZMNIEJSZONA O ([precentage]) ⚠</color></size>
+<size=125%>BLK_DRZWI - AKTYWNA \uf023</size>
+<size=125%><color=#8080FF>GŁOŚNIK - AKTYWNY 🔊</color></size>
+<size=125%>BLK_POM - AKTYWNA - \uf023</size>
+<color=#ffa500>\uf06e WYKRYWACZ WYŁOMÓW</color>
+WRÓĆ DO MAPY
+<color=#ffa500>\uf06e Wykrywacz Wyłomów</color> - [cnt] strefy
+WYBRANE STREFY: [cnt]
+<color=red>WYBIERZ STREFY DO SKANOWANIA</color>
+「<color=red>\uf00d</color>」 - <color=red>SKAN ZAKOŃCZONY NIE POWODZENIEM</color> - Brak wykrytych nieruchomych celów.
+Następny skan za <color=#8080FF>[time]</color> sekund...
+「<color=green>\uf00c</color>」 - <color=green>SKAN ZAKOŃCZONY POWODZENIEM</color> - $<b>[role]</b>$ wykryto - <color=red><b>[camera_name]</b></color> - <b>[zone]</b>
+<color=#8080FF>NASTĘPNY SKAN za: [time]s</color>
+<color=#8080FF>Skanowanie...</color>
+<size=130%><color=red><b>SKANOWANIE WSTRZYMANE</b></color></size>
+<color=#8080FF>WYBIERZ DRUŻYNY DO SKANOWANIA</color>
+<b>WIELKI BRAT PATRZY</b>\n\nWykrywacz wyłomów ukazuje pozostałe cele, które przebywają przez dłuższy czas na tym samym obszarze.
+<color=yellow>⚠</color><color=red>Wybierz co najmniej jeden filtr, aby kontynuować!</color><color=yellow>⚠</color>
+$<color=red>\uf023</color> <color=#8080FF>BLOKOWANIE DRZWI</color>$ jest teraz dostępne - wciśnij $<color=#8080FF>RMB</color>$, aby tymczasowo zablokować drzwi.
