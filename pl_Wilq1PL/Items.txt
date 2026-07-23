@@ -7,7 +7,7 @@
 6~<color=#b6887f>💳 Karta Technika Zabezpieczeń 💳</color>
 7~<color=#0096FF>💳 Karta Operacyjna MFO 💳</color>
 8~<color=#003DCA>💳 Karta Kapitana MFO 💳</color>
-9~<color=#ba1846>💳 Karta Dyrektora Placówki 💳</color>
+9~<color=#ba1846>💳 Karta Dyrektora Ośrodka 💳</color>
 10~<color=#008F1C>📟 Urządzenie Hakujące Hausa 📟</color>
 11~<color=#FFFFFF>💳 Karta Dostępu Poziomu 5 💳</color>
 12~<color=#5B6370>📻 Radio 📻</color>~Umożliwia komunikację na duże odległości pomiędzy urządzeniami.\n\nSR - 108m\nMR - 180m\nLR - 1080m\nUR - 7200m
