@@ -6,4 +6,4 @@
 <size=85%>\uf084</size> ZARZĄDCA STREFY
 <size=85%>\uf084</size> DYREKTOR OŚRODKA
 <color=green>POZOSTAŁE UŻYCIA: 1</color>
-<color=red>ODMOWA DOSTĘPU</color>
+<color=red>PRZEPUSTKA WYKORZYSTANA</color>
