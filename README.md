@@ -1,3 +1,5 @@
+Bazowane na plikach od Corporal Lambda
+
 Jak pobrać i używać:
 
 Numero Uno - pobierz ZIPa i rozpakuj go w folderze z tŁumaczeinami gry:
