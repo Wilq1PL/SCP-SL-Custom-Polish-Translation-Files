@@ -11,10 +11,10 @@
 <color=#b40404><b>🍒</b> Czerwony Cukierek 🍬</color>
 \n<size=75%><color=#b40404>Silny zapach wiśni wypełnia pomieszczenie. Jest lekko... <i>przytłaczający</i>.</color></size>
 <color=#b40404>✚</color><color=#FFFFFF> Regeneruje 45 HP.
-<color=#2a731f>🌿 Zielony Cukierek 🍬</color
-\n<size=75%><color=#2a731f>Cukierek cuchnie okropnym, ziołowym zapachem..</color></size>>
+<color=#2a731f>🌿 Zielony Cukierek 🍬</color>
+\n<size=75%><color=#2a731f>Cukierek cuchnie okropnym, ziołowym zapachem..</color></size>
 \n\n<size=150%><color=#2a731f>⛨</color><color=#FFFFFF> Odporność na Negatywne Efekty - 30s.\n<color=#2a731f>✚<color=#FFFFFF> Powoli Regeneruje 120 HP.</color></size>
-<color=#36a7d6>🍬 Niebieski Zapach 🍬</color>
+<color=#36a7d6>🍬 Niebieski Cukierek 🍬</color>
 \n<size=75%><color=#36a7d6>Ma delikatny i słodki zapach, trochę jak pianki.</color></size>
 <color=#55da09>⛨</color><color=#FFFFFF> Aplikuje </color><color=#55da09>30 AHP</color>.
 <color=#f47fff>🍓 Różowy Cukierek 🍬</color>
