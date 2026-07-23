@@ -21,8 +21,8 @@
 21~<color=#70C3FF>\uf05b Crossvec \uf05b\n<size=75%>C.R.O.S.S.</size></color>
 23~<color=#5B6370>\uf05b FSP-9 \uf05b\n<size=75%>Standardowa Broń Oddziałów Ochrony placówki</size></color>
 24~<color=#0D7D35>\uf05b Logicer \uf05b\n<size=75%>Sasha</size></color>
-25~<color=#0096FF>💥 HE Grenade 💥</color>~<color=orange>💥</color> 900 DMG dla <color=red>SCP</color>.\n<color=#8079FF>\ue06c</color> 1800 DMG dla <color=#8079FF>Tarczy Hume</color>.\n<color=orange>🔥</color> Parzy graczy.\n\uf2f2 3.5s czasu zapalnika.
-26~<color=#5B6370>💣 Flashbang 💣\nModel FG02</color>~<color=#5B6370>\uf06e</color> Oślepia przeciwnika przez 5s max.\n\uf2f2 2.8s czasu zapalnika.
+25~<color=#0096FF>💥 Granat Wybuchowy 💥</color>~<color=orange>💥</color> 900 DMG dla <color=red>SCP</color>.\n<color=#8079FF>\ue06c</color> 1800 DMG dla <color=#8079FF>Tarczy Hume</color>.\n<color=orange>🔥</color> Parzy graczy.\n\uf2f2 3.5s czasu zapalnika.
+26~<color=#5B6370>💣 Granat Błyskowo Hukowy 💣\nModel FG02</color>~<color=#5B6370>\uf06e</color> Oślepia przeciwnika przez 5s max.\n\uf2f2 2.8s czasu zapalnika.
 30~<color=#5B6370>\uf05b GLOCK-18 \uf05b\n<size=75%>Kompaktowy Pistolet</size></color>
 31~<color=red>⚽ SCP-018 ⚽</color>~<size=85%><color=#ffeb00>👥</color> Toleracja Friendly Fire - 10s.\n💨 Prędkość podwaja się z każdym odbiciem.\n⚽ 10x DMG dla <color=red>SCPs</color>.\n<color=orange>💥</color> Eksploduje po 80s.</size>
 32~<color=#ff0000>🎩 SCP-268 🎩</color>~◌ Niewidzialność - 15s.
