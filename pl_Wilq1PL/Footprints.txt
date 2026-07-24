@@ -1,9 +1,9 @@
  (%time% ⏳)
  (+%influence% 👊)
 <color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
-Ukończone cele pojawią się tutaj!
-<color=%achieverColor%>%achieverName%</color> zabił <color=%victimColor%>%victimName%</color>
-<color=%achieverColor%>%achieverName%</color> zranił <color=%victimColor%>%victimName%</color>
-<color=%achieverColor%>%achieverName%</color> uciekł z Placówki
-<color=%achieverColor%>%achieverName%</color> aktywował <b>Generator</b>
-<color=%achieverColor%>%achieverName%</color> zapierdolił <color=red>%itemName%</color>
+<size=150%><mark=#ff80bc11><color=#ff80bc>⚠️ - Ukończone cele pojawią się tutaj - ⚠️</color></mark></size>
+「<color=%achieverColor%>\uf714</color>」 - <color=%achieverColor%>%achieverName%</color> zabił <color=%victimColor%>%victimName%</color>
+「<color=%achieverColor%>💥</color>」 - <color=%achieverColor%>%achieverName%</color> zranił <color=%victimColor%>%victimName%</color>
+「<color=%achieverColor%>🏃</color>」 - <color=%achieverColor%>%achieverName%</color> uciekł z <color=#0096ff>Ośrodka-02</color>
+「<color=%achieverColor%>\uf0e7</color>」 - <color=%achieverColor%>%achieverName%</color> aktywował <color=#8080FF>Generator</color>
+「<color=%achieverColor%>\uf780</color>」 - <color=%achieverColor%>%achieverName%</color> zajumał <color=red>%itemName%</color>
