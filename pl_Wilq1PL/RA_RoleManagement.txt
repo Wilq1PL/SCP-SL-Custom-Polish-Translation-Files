@@ -1,29 +1,31 @@
 Żadna
-SCP-173
-Klasa D
-Obserwator
-SCP-106
-Specjalista NTF
-SCP-049
-Naukowiec
-SCP-079
-Poborowy Chaosu
-SCP-096
-SCP-049-2
-Sierżant NTF
-Kapitan NTF
-Szeregowy NTF
-Samouczek
-Ochroniarz
-SCP-939
+<color=#EC2222>「SCP-173」</color>
+<color=#FF8E00>Klasa D</color>
+「Obserwator」
+<color=#EC2222>「SCP-106」</color>
+<color=#00AFFF>Specjalista NTF</color>
+<color=#EC2222>「SCP-049」</color>
+<color=#FFFF7C>Naukowiec</color>
+<color=#8080FF>「SCP-079」</color>
+<color=#559100>Poborowy Chaosu</color>
+<color=#EC2222>「SCP-096」</color>
+<color=#CA1111>「SCP-049-2」</color>
+<color=#0096FF>Sierżant NTF</color>
+<color=#003DCA>Kapitan NTF</color>
+<color=#70C3FF>Szeregowy NTF</color>
+<color=#ff00b0>「Samouczek」</color>
+<color=#5B6370>Ochroniarz</color>
+<color=#EC2222>「SCP-939」</color>
 Niedomyślna
-Strzelec Chaosu
-Maruder Chaosu
-Represor Chaosu
-Nadzorca
-Filmowiec
-SCP-3114
+<color=#008F1C>Strzelec Chaosu</color>
+<color=#006826>Maruder Chaosu</color>
+<color=#0D7D35>Represor Chaosu</color>
+「Nadzorca」
+<color=#A020F0>「Filmowiec」</color>
+<color=#EC2222>「SCP-3114」</color>
 Zniszczony
-SCP-1507
-SCP-1507-Alpha
-SCP-1507-049
+<color=#FF59CA>「SCP-1507」</color>
+<color=#FF0099>「SCP-1507-Alpha」</color>
+<color=#ff0000>「1507-049」</color>
+<color=#0096FF>「NTF-1507」</color>
+<color=#559100>「CI-1507」</color>
