@@ -1,4 +1,4 @@
-💀 Tu leży <color=#ff80bc><b>[user]</b></color> był [class]!\n Wyniki obserwacji: [cause]
+💀 Tu leży <color=#ff80bc><b>[user]</b></color>, za życia [class]!\n Wyniki obserwacji: [cause]
 Zabezpieczony.
 Wyparował przez wybuch głowicy Alfa.\n Powód: <color=#f5650a>Nie zdążył się ewakuować.</color>
 Zawał serca | Tępe rany\n Powód: <color=#e52121>SCP-049</color>/<color=#e52121>SCP-049-2</color>
