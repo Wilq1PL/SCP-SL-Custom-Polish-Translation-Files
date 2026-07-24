@@ -22,24 +22,24 @@ DRZWI ZABLOKOWANE PRZEZ SCP-079
 Tryb pełnoekranowy
 Czy na pewno chcesz opuścić ten serwer?
 Podstawowe ustawienia, pełna lista w menu głównym.
-OCZEKIWANIE NA GRACZY
+「<color=#F7D007>W</color><color=#F7C514>A</color><color=#F7BA21>I</color><color=#F7AF2E>T</color><color=#F7A43B>I</color><color=#F79948>N</color><color=#F78E55>G</color> <color=#F7786F>F</color><color=#F76D7C>O</color><color=#F76289>R</color> <color=#F74CA3>P</color><color=#F741B0>L</color><color=#F736BD>A</color><color=#F72BCA>Y</color><color=#F720D7>E</color><color=#F715E4>R</color><color=#F70AF1>S</color>」
 PODSUMOWANIE
 KONTYNUUJ
 GŁOŚNOŚĆ GŁÓWNA
-połączonych
-Uciekłeś jako Naukowiec i zasiliłeś jednostki MFO.
-Uciekłeś jako Klasa D i zasiliłeś szeregi Rebelii Chaosu.
+\n<size=150%><color=#F70AF1>\uf0c0</color></size>\n<b>POŁĄCZONYCH</b></color>
+-
+-
 TWOJA ROLA
-Czas ucieczki: [escape_minutes] minut i [escape_seconds] sekund
-Zaczekaj [time] zanim użyjesz ponownie [item].
-Naciśnij <color=yellow><b>F1</b></color>, aby uzyskać informacje o swojej roli.
-Zostałeś rozbrojony.\n<size=40>Wykonuj rozkazy lub poproś członków swojej drużyny o pomoc.</size>
-Zostałeś przechwycony przez jednostkę Nine-Tailed Fox.\nWzmocniłeś jej szeregi, zmniejszając tym samym poziom zagrożenia w placówce.
-Zostałeś schwytany jako naukowiec przez Rebelię Chaosu.\nInformacje, które z ciebie wyciągnęli, pozwoliły im na uzyskanie przewagi nad jednostkami Nine-Tailed Fox.
-START RUNDY ZA: <color=yellow>{0}</color> s
-START RUNDY <color=#FF5050>WSTRZYMANY</color>
+Czas ucieczki: [escape_minutes]:[escape_seconds]
+Zaczekaj [time]\n[item].
+\n\n\nNaciśnij <color=yellow><b>F1</b></color>, aby uzyskać informacje o swojej roli.
+<size=40><color=#EC2222>Wykonuj rozkazy lub poproś członków swojej drużyny o pomoc.</color></size>
+-
+-
+<size=110%><b>START RUNDY ZA:</size> <size=200%><color=green>{0}</color></b></size>
+<size=110%><b>START RUNDY ZA:</b><color=#EC2222> \uf023 <b>WSZTRZYMANY</b> \uf023</color></size>
 REDUKCJA CZ. MYSZY PRZY ADS
-Naciśnij [key], aby anulować rzut.
+Naciśnij <b>[key]</b>, aby anulować rzut.
 Przełączane celowania w dół
 Wycisz obserwatorów
 Redukcja szumu (zalecane)
