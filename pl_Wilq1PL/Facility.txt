@@ -37,7 +37,7 @@ Zaczekaj [time]\n[item].
 -
 -
 <size=110%><b>START RUNDY ZA:</size> <size=200%><color=green>{0}</color></b></size>
-<size=110%><b>START RUNDY ZA:</b><color=#EC2222> \uf023 <b>WSZTRZYMANY</b> \uf023</color></size>
+<size=110%><b>START RUNDY:</b><color=#EC2222> \uf023 <b>WSZTRZYMANY</b> \uf023</color></size>
 REDUKCJA CZ. MYSZY PRZY ADS
 Naciśnij <b>[key]</b>, aby anulować rzut.
 Przełączane celowania w dół
