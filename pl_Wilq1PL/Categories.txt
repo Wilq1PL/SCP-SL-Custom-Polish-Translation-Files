@@ -1,10 +1,10 @@
-Brak
-Kart dostępu
-Przedmiotów Medycznych
-Krótkofalówek
-Broni palnej
-Granatów
-Przedmiotów SCP
-Broni Specjalnych
-Amunicji
-Pancerzy
+<color=#FFFFFF><b>Brak</b></color>
+<color=#FFFFFF><b>Kart dostępu</b></color>
+<color=#FFFFFF><b>Przedmiotów Medycznych</b></color>
+<color=#FFFFFF><b>Krótkofalówek</b></color>
+<color=#FFFFFF><b>Broni palnej</b></color>
+<color=#FFFFFF><b>Granatów</b></color>
+<color=#FFFFFF><b>Przedmiotów SCP</b></color>
+<color=#FFFFFF><b>Broni Specjalnych</b></color>
+<color=#FFFFFF><b>Amunicji</b></color>
+<color=#FFFFFF><b>Pancerzy</b></color>
