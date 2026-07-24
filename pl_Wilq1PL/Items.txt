@@ -54,6 +54,6 @@
 58~SCP-2536-2~Teleportuje gracza do losowego <color=red>SCP</color>.
 59~<color=#FF59CA>📼 Odtwarzacz Kaset 📼</color>~Przywołuje hordę:\n<color=#FF59CA>SCP-1507</color>
 61~<color=#6f32b5>\uf09d Przepustka \uf09d</color>~Jednorazowa przepustka do otwierania bram wyjściowych.
-62~<color=#ff0000>\uf05b SCP-127 \uf05b\n<size=75%>Żywa Broń Palna</size></color>
+62~<color=#ff0000>\uf05b SCP-127 \uf05b\n<size=75%>Ząbki</size></color>
 68~<color=#ff0000>🔪 SCP-1509 🔪</color>~<size=75%>Krakowska Maczeta</size>\n\n「LMB」: 50 DMG\n<color=#8079FF>\ue06c</color> Daje użytkownikowi <color=#8079FF>35 HS</color>.\n<color=red>👻</color> Odradza martwego soujsznika.
 69~<color=#ff0000>💀 SCP-021-J 💀</color>~Prędko zmienia tkanki ciała w piankę.\nPół Człowiek, Pół Pianka.\nAll <b>ZŁO</b>.
