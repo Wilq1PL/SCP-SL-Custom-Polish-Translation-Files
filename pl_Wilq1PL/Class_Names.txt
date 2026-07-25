@@ -1,4 +1,4 @@
-<color=red>「BETON」</color>
+<color=red>「Beton」</color>
 <color=#ff8000>D-Boy</color>
 「Skill Issue」
 <color=red>「Radykalny Larry」</color>
