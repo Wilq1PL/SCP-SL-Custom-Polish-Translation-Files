@@ -1,4 +1,4 @@
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>MFO Epsztilon-11</color> <b>|</b> <color=#003DCA>Oznaczenie: [designation]</color> <b>|</b>
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>MFO Epsztilon-11</color> <b>|</b> <color=#003DCA>Oznaczenie: [designation]</color> <b>|</b> 
 <color=#EC2222>[count] SCP</color>.
 <color=#EC2222>1 SCP</color>.
 <color=#EC2222>Proszę zachować ostrożność</color>.

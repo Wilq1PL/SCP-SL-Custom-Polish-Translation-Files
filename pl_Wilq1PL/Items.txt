@@ -7,11 +7,11 @@
 6~<color=#b6887f>💳 Karta Technika Zabezpieczeń 💳</color>
 7~<color=#0096FF>💳 Karta Operacyjna MFO 💳</color>
 8~<color=#003DCA>💳 Karta Kapitana MFO 💳</color>
-9~<color=#ba1846>💳 Karta Dyrektora Ośrodka 💳</color>
+9~<color=#ba1846>💳 Karta Dyrektora Placówki 💳</color>
 10~<color=#008F1C>📟 Urządzenie Hakujące Hausa 📟</color>
 11~<color=#FFFFFF>💳 Karta Dostępu Poziomu 5 💳</color>
 12~<color=#5B6370>📻 Radio 📻</color>~Umożliwia komunikację na duże odległości pomiędzy urządzeniami.\n\nSR - 108m\nMR - 180m\nLR - 1080m\nUR - 7200m
-13~<color=#FFFF7C>\uf05b GLOCK-15 \uf05b</color>
+13~<color=#FFFF7C>\uf05b GLOCK-15 \uf05b\n<size=75%>Klamka Wersja Mini</size></color>
 14~<color=#FFFF7C>\uf0fa Apteczka Pierwszej Pomocy \uf0fa</color>~<color=#f57caa>💗</color> Leczy 65 HP.
 15~<color=#FF8E00>🔦 Latarka 🔦</color>~"Niech się stanie światłość!".
 16~<color=#003DCA>⚡ Micro HIV ⚡</color>~<size=135%>Daje anomaliom AIDS.\n\n「Primary」: 400 DPS\n「Charged」: 1000 DPS\n<color=#767676>🏃</color> Zwiększona konsumpcja wytrzymałości - 30%.</size>
@@ -21,9 +21,9 @@
 21~<color=#70C3FF>\uf05b Crossvec \uf05b\n<size=75%>C.R.O.S.S.</size></color>
 23~<color=#5B6370>\uf05b FSP-9 \uf05b\n<size=75%>Standardowa Broń Oddziałów Ochrony placówki</size></color>
 24~<color=#0D7D35>\uf05b Logicer \uf05b\n<size=75%>Sasha</size></color>
-25~<color=#0096FF>💥 Granat Wybuchowy 💥</color>~<color=orange>💥</color> 900 DMG dla <color=red>SCP</color>.\n<color=#8079FF>\ue06c</color> 1800 DMG dla <color=#8079FF>Tarczy Hume</color>.\n<color=orange>🔥</color> Parzy graczy.\n\uf2f2 3.5s czasu zapalnika.
+25~<color=#0096FF>💥 Granat Wybuchowy  💥</color>~<color=orange>💥</color> 900 DMG dla <color=red>SCP</color>.\n<color=#8079FF>\ue06c</color> 1800 DMG dla <color=#8079FF>Tarczy Hume</color>.\n<color=orange>🔥</color> Parzy graczy.\n\uf2f2 3.5s czasu zapalnika.
 26~<color=#5B6370>💣 Granat Błyskowo Hukowy 💣\nModel FG02</color>~<color=#5B6370>\uf06e</color> Oślepia przeciwnika przez 5s max.\n\uf2f2 2.8s czasu zapalnika.
-30~<color=#5B6370>\uf05b GLOCK-18 \uf05b\n<size=75%>Kompaktowy Pistolet</size></color>
+30~<color=#5B6370>\uf05b GLOCK-18 \uf05b\n<size=75%>Klamka</size></color>
 31~<color=red>⚽ SCP-018 ⚽</color>~<size=85%><color=#ffeb00>👥</color> Toleracja Friendly Fire - 10s.\n💨 Prędkość podwaja się z każdym odbiciem.\n⚽ 10x DMG dla <color=red>SCPs</color>.\n<color=orange>💥</color> Eksploduje po 80s.</size>
 32~<color=#ff0000>🎩 SCP-268 🎩</color>~◌ Niewidzialność - 15s.
 33~<color=#FFFF7C>💉 Adrenalina 💉</color>~<color=#55da09>⛨</color> Daje graczowi <color=#55da09>40 AHP</color>.\n<color=#767676>🏃</color> Odnawia pasek wytrzymałości.\n<color=#767676>🏃</color> Nieskończony sprint sprint - 8s.
@@ -41,7 +41,7 @@
 45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~<b>☁️</b> Tworzy lodową chumrę.\n❄️ Chmura aplikuje hipotermię.
 46~SCP-1853~Zwiększa zręczność i umiejętności obsługi broni, gdy twoje życie jest zagrożone.~Ulepszacz Wydajności
 47~<color=#003DCA>\uf05b 3-X Particle Disruptor \uf05b\n<size=75%>Eksperymentalny Karabin Ontokinetyczny</size></color>
-48~<color=#ff0000>\uf05b GLOCK-15x3 \uf05b\n<size=75%>Potrójny automatyczny pistolet</size></color>
+48~<color=#ff0000>\uf05b GLOCK-15x3 \uf05b\n<size=75%>Potrójna Klamka</size></color>
 49~<color=#ff0000>🔊 SCP-1576 🔊</color>~👻 Doświadcz schizofrenii.\n\uf2f2 Czas trwania - 30s.
 50~<color=#ff0000>🍭 Wielka Czarna Pała 🍭</color>~<size=75%>To jest… Pała!?</size>\n\nZamach 「LMB」: 50 DMG\nSzarża 「RMB」: 200 DMG\n<color=#8079FF>\ue06c</color> Penetruje <color=#8079FF>Tarczę Hume</color>.
 51~<color=#004B93>\uf72f O-207-914 \uf72f</color>~<color=#767676>🐌</color> <size=90%>Zmniejsza przędkość gracza</size>\n<color=#f57caa>✚</color> Regeneruje HP\n<color=#55da09>⛨</color> Zapewnia 75 AHP\n\n<size=75%>Uratuje twoje życie w sytuacji kryzysowej.</size>
